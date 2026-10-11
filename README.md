@@ -2,15 +2,26 @@
 
 # ✨ Muktha Nayak
 
-### AI & Data Science Undergraduate
+### Aspiring Data Analyst | AI & Data Science Enthusiast
 
-*Aspiring Data Scientist | AI/ML Enthusiast | Tech Explorer*
+*Turning data into insights and exploring intelligent solutions.*
 
 📍 Karnataka, India
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-171717?style=for-the-badge&logo=vercel&logoColor=white)](https://muktha-portfolio-jade.vercel.app)
-[![Resume](https://img.shields.io/badge/Resume-Download-8A6D3B?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/15qnsah7pXywhcFyt6dlUKQsZoJtFXDrD/view?usp=drivesdk)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mukthanayak2004)
+<br>
+
+<a href="https://muktha-portfolio-jade.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-171717?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Portfolio">
+</a>
+<a href="https://drive.google.com/file/d/15qnsah7pXywhcFyt6dlUKQsZoJtFXDrD/view?usp=drivesdk">
+  <img src="https://img.shields.io/badge/Resume-View%20%26%20Download-8A6D3B?style=for-the-badge&logo=googledrive&logoColor=white" alt="View and Download Resume">
+</a>
+<a href="https://github.com/mukthanayak2004">
+  <img src="https://img.shields.io/badge/GitHub-Visit%20Profile-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
+</a>
+<a href="YOUR_LINKEDIN_PROFILE_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
+</a>
 
 </div>
 
@@ -67,9 +78,8 @@ Affiliated with Visvesvaraya Technological University (VTU), Belagavi.
 - 🌐 **Portfolio:** [Visit my website](https://muktha-portfolio-jade.vercel.app)
 - 💻 **GitHub:** [Explore my repositories](https://github.com/mukthanayak2004)
 - 📄 **Resume:** [View or download my resume](https://drive.google.com/file/d/15qnsah7pXywhcFyt6dlUKQsZoJtFXDrD/view?usp=drivesdk)
-- 💼 **LinkedIn:** Add your LinkedIn profile URL here.
-- 📧 **Email:** Add your professional email address here.
-
+- 💼 **LinkedIn:** linkedin.com/in/muktha-nayak 
+- 📧 **Email:** muktha.nayak2004@gmail.com
 ---
 
 <div align="center">
