@@ -149,9 +149,8 @@ I'm interested in learning, collaborating, and connecting with people working in
 
 - 🌐 **Portfolio:** [Visit my website](https://muktha-portfolio-jade.vercel.app)
 - 💻 **GitHub:** [Explore my repositories](https://github.com/mukthanayak2004)
-- 💼 **LinkedIn:** Add your LinkedIn profile URL here.
-- 📧 **Email:** Add your professional email address here.
-
+- 💼 **LinkedIn:**linkedin.com/in/muktha-nayak
+- 📧 **Email:**muktha.nayak2004@gmail.com
 ---
 
 <div align="center">
